@@ -2,10 +2,7 @@ import java.io.*;
 import java.net.*;
 import java.util.*;
 
-/**
- *
- * @author z17000050
- */
+
 public class Zach_Web_Server {
 
     /**
